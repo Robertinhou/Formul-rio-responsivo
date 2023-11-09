@@ -1,0 +1,32 @@
+@media (max-width: 1000px){
+
+    body{
+        position: relative;
+        width: 80%;
+        left: 10%;
+        background-color: rgb(255, 234, 0);
+    }
+
+    form{
+        position: relative;
+        border: 1px solid black;
+        padding: 1%;
+    }
+
+    td{
+        display: flex;
+        flex-direction: column;
+    }
+
+    td font{
+       
+        text-align: initial;
+
+    
+    }
+
+    
+
+
+    
+}
